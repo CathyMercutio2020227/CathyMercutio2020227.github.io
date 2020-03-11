@@ -2,12 +2,12 @@
 title: V For Verona!
 SEOTitle: 十月石榴摸鱼吸毛球的博客 | 同人存稿地
 header-img: img/post-bg-desk.jpg
-email: 2673****21@qq.com
+email: 2673xxxx21@qq.com
 description: "这里是十月石榴的小型吸毛球现场，AO3没啦就是这个啦"
 keyword: "同人, 个人博客, 手动分级, 罗密欧与朱丽叶, 音乐剧, 罗朱毛球中心"
 url: "http://CathyMercutio2020227.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/CathyMercutio2020227/CathyMercutio2020227.github.io.git" # you code repository
+#github_repo: "https://github.com/CathyMercutio2020227/CathyMercutio2020227.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
