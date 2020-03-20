@@ -56,8 +56,8 @@ kramdown:
 
 
 # 评论系统
- Disqus（https://disqus.com/）
- disqus_username: CathyMercutio2020227
+# Disqus（https://disqus.com/）
+# disqus_username: CathyMercutio2020227
 
 # Gitalk
 gitalk:
